@@ -1,0 +1,41 @@
+
+Instalar o vue cli:
+na pasta digitar:
+     npm i -g @vue/cli 
+
+
+criar novo projeto do Vue:
+na pasta digitar:
+     vue create front-end
+
+
+rodar projeto:
+    npm run serve
+
+
+igor halfed
+
+site dev.to -> artigos, etc
+
+vue --version
+
+crud -> create, read, update, delete 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
