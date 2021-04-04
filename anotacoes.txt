@@ -30,7 +30,7 @@ https://www.npmjs.com/package/vue-sweetalert2
 
 obs: o programa para rodar neste estado exige o uso ;(ponto e virgula)
 
-
+clicar nos links da nav bar
 
 
 

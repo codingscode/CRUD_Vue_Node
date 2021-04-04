@@ -6,10 +6,10 @@
 
 <script>
 export default {
-   data() {
-       return 'oi'
-   }
-}
+  data() {
+    return 'oi';
+  },
+};
 </script>
 
 <style>
