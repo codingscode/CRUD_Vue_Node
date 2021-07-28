@@ -34,8 +34,8 @@ clicar nos links da nav bar
 
 
 
-
-
+no terminal:
+     npm install --save nprogress
 
 
 
