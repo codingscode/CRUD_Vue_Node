@@ -38,7 +38,7 @@ no terminal:
      npm install --save nprogress
 
 
-
+campos com preenchimento obrigatorio
 
 
 
