@@ -8,4 +8,13 @@ import router from './router';
 import '../node_modules/nprogress/nprogress.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
+/* new Vue({
+    router,
+    render: (h) => h(App),
+ }).use(VueSweetalert2).$mount('#app')
+  */
+
+
+
 createApp(App).use(router, VueSweetalert2).mount('#app');
