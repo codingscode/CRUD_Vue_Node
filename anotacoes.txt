@@ -41,5 +41,7 @@ no terminal:
 campos com preenchimento obrigatorio
 
 
+fazendo rotas
+
 
 
