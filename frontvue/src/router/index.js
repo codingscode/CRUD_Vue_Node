@@ -1,6 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
+import NProgress from 'nprogress'
+
+
 
 Vue.use(VueRouter)
 
@@ -27,6 +30,25 @@ const router = new VueRouter({
    base: process.env.BASE_URL,
    routes
 })
+
+
+
+router.beforeResolve((to, from, next) => {
+   if (to.name) {
+      // quando houver carregamento de uma página inicial, então usar o NProgress
+      NProgress.start()
+      
+   }
+   next()
+})
+
+router.afterEach(() => {  // router.afterEach((to, from) => {
+   // completando a animação da rota do nprogress
+   NProgress.done()
+})
+
+
+
 
 export default router
 

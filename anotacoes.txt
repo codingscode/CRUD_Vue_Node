@@ -44,4 +44,12 @@ campos com preenchimento obrigatorio
 fazendo rotas
 
 
+no terminal:
+     npm i axios
+     npm i --save nprogress
+
+
+aparece a barra azul carregamento rápida
+
+
 
