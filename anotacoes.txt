@@ -51,5 +51,29 @@ no terminal:
 
 aparece a barra azul carregamento rápida
 
+vuelidate.js.org
+
+no terminal:
+     npm i vuelidate --save
+
+
+verificar depois
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
